@@ -1,0 +1,6 @@
+.venv/
+.score/
+__pycache__/
+*.pyc
+output.csv
+.ipynb_checkpoints/

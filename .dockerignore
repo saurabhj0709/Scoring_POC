@@ -1,0 +1,10 @@
+.score/
+.venv/
+__pycache__/
+*.pyc
+*.ipynb
+.ipynb_checkpoints/
+.git/
+.aws/
+*.csv
+*.parquet
